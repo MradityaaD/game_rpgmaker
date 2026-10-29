@@ -84,10 +84,6 @@ Project game/
 └── package.json
 ```
 
-## 👤 Pembuat
 
-Dibuat oleh **M. Raditya**.
 
----
 
-<p align="center">Dibuat dengan ❤️ menggunakan RPG Maker MZ</p>
