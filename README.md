@@ -65,6 +65,8 @@ Buat kamu yang sudah punya aplikasi **RPG Maker MZ**:
 3. Pilih **Open Project**.
 4. Buka file **`game.rmmzproject`**.
 
+> ⚠️ **Penting:** ekstrak dulu file project-nya sebelum dibuka. Jangan buka langsung dari dalam file `.zip`.
+
 ---
 
 ## 📁 Struktur Project
