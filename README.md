@@ -84,6 +84,8 @@ Project game/
 └── package.json
 ```
 
+## 👨‍💻 Pembuat
 
+**Muhammad Raditya Duta Pratama** — Kelas X PPLG 1
 
 
